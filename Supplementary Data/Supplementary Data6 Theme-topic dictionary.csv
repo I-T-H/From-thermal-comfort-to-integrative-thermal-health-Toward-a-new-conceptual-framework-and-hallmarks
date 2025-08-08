@@ -1,0 +1,510 @@
+﻿Theme,Topic,total link strength
+absence of mental illness,anxiety,19
+absence of mental illness,autonomic nervous system,14
+absence of mental illness,blood flow,21
+absence of mental illness,blood lactate,6
+absence of mental illness,blood pressure,83
+absence of mental illness,body core temperature,10
+absence of mental illness,body temperature,168
+absence of mental illness,body temperature regulation,34
+absence of mental illness,body temperatures,8
+absence of mental illness,cardiac output,11
+absence of mental illness,cardiovascular system,7
+absence of mental illness,catecholamines,13
+absence of mental illness,circadian,44
+absence of mental illness,circadian clock,14
+absence of mental illness,circadian phase,9
+absence of mental illness,circadian rhythm,141
+absence of mental illness,circadian rhythms,99
+absence of mental illness,core body temperature,65
+absence of mental illness,core temperature,222
+absence of mental illness,corticosterone,7
+absence of mental illness,cortisol,31
+absence of mental illness,cutaneous vasodilation,8
+absence of mental illness,depression,25
+absence of mental illness,esophageal temperature,6
+absence of mental illness,health,166
+absence of mental illness,heart rate,162
+absence of mental illness,heart rate variability,23
+absence of mental illness,hormones,13
+absence of mental illness,human circadian rhythms,8
+absence of mental illness,human health,58
+absence of mental illness,mental disorders,8
+absence of mental illness,mental health,47
+absence of mental illness,metabolic heat production,13
+absence of mental illness,metabolic rate,60
+absence of mental illness,norepinephrine,10
+absence of mental illness,rectal temperature,91
+absence of mental illness,schizophrenia,18
+absence of mental illness,skin blood flow,80
+absence of mental illness,skin temperature,207
+absence of mental illness,skin temperatures,10
+absence of mental illness,suicide,18
+absence of mental illness,sympathetic nervous system,12
+absence of mental illness,tympanic temperature,15
+absence of mental illness,wrist temperature,7
+absence of physical illness,acute kidney injury,11
+absence of physical illness,acute myocardial infarction,17
+absence of physical illness,all-cause mortality,7
+absence of physical illness,allergic rhinitis,12
+absence of physical illness,allergy,15
+absence of physical illness,ambulance,7
+absence of physical illness,asthma,63
+absence of physical illness,autonomic nervous system,14
+absence of physical illness,bacillary dysentery,21
+absence of physical illness,blood flow,21
+absence of physical illness,blood lactate,6
+absence of physical illness,blood pressure,83
+absence of physical illness,body core temperature,10
+absence of physical illness,body temperature,168
+absence of physical illness,body temperature regulation,34
+absence of physical illness,body temperatures,8
+absence of physical illness,c-reactive protein,10
+absence of physical illness,cancer,8
+absence of physical illness,cardiac output,11
+absence of physical illness,cardiovascular,40
+absence of physical illness,cardiovascular disease,77
+absence of physical illness,cardiovascular diseases,39
+absence of physical illness,cardiovascular mortality,23
+absence of physical illness,cardiovascular strain,17
+absence of physical illness,cardiovascular system,7
+absence of physical illness,catecholamines,13
+absence of physical illness,chronic disease,17
+absence of physical illness,chronic kidney disease,9
+absence of physical illness,chronic obstructive pulmonary disease,12
+absence of physical illness,circadian,44
+absence of physical illness,circadian clock,14
+absence of physical illness,circadian phase,9
+absence of physical illness,circadian rhythm,141
+absence of physical illness,circadian rhythms,99
+absence of physical illness,civd,13
+absence of physical illness,cold injury,11
+absence of physical illness,copd,10
+absence of physical illness,core body temperature,65
+absence of physical illness,core temperature,222
+absence of physical illness,coronary heart disease,11
+absence of physical illness,corticosterone,7
+absence of physical illness,cortisol,31
+absence of physical illness,cough,8
+absence of physical illness,cutaneous vasodilation,8
+absence of physical illness,cytokines,20
+absence of physical illness,death,8
+absence of physical illness,dehydration,92
+absence of physical illness,dementia,18
+absence of physical illness,diabetes,16
+absence of physical illness,diabetes mellitus,10
+absence of physical illness,diarrhea,12
+absence of physical illness,diarrhoea,12
+absence of physical illness,disease,8
+absence of physical illness,diseases,7
+absence of physical illness,emergency department,20
+absence of physical illness,emergency department visits,27
+absence of physical illness,emergency medical services,10
+absence of physical illness,emergency room visits,7
+absence of physical illness,esophageal temperature,6
+absence of physical illness,excess mortality,10
+absence of physical illness,exertional heat illness,33
+absence of physical illness,exertional heat stress,9
+absence of physical illness,exertional heat stroke,25
+absence of physical illness,fever,21
+absence of physical illness,frostbite,18
+absence of physical illness,health,166
+absence of physical illness,heart rate,162
+absence of physical illness,heart rate variability,23
+absence of physical illness,heat exhaustion,27
+absence of physical illness,heat illness,81
+absence of physical illness,heat illnesses,6
+absence of physical illness,heat mortality,8
+absence of physical illness,heat stress disorders,21
+absence of physical illness,heat stroke,80
+absence of physical illness,heat-related illness,55
+absence of physical illness,heat-related mortality,37
+absence of physical illness,heatstroke,29
+absence of physical illness,hospital,10
+absence of physical illness,hospital admission,34
+absence of physical illness,hospital admissions,45
+absence of physical illness,hospitalization,44
+absence of physical illness,hospitalizations,7
+absence of physical illness,hospitals,7
+absence of physical illness,human circadian rhythms,8
+absence of physical illness,human health,58
+absence of physical illness,human mortality,10
+absence of physical illness,hypertension,23
+absence of physical illness,hyperthermia,191
+absence of physical illness,hypohydration,27
+absence of physical illness,hypothermia,67
+absence of physical illness,i-fabp,7
+absence of physical illness,immune function,10
+absence of physical illness,infectious diarrhea,9
+absence of physical illness,inflammation,42
+absence of physical illness,influenza,8
+absence of physical illness,interleukin-6,8
+absence of physical illness,ischemic stroke,14
+absence of physical illness,lung function,8
+absence of physical illness,metabolic heat production,13
+absence of physical illness,metabolic rate,60
+absence of physical illness,metabolism,25
+absence of physical illness,morbidity,71
+absence of physical illness,mortality,491
+absence of physical illness,mortality risk,8
+absence of physical illness,myocardial infarction,17
+absence of physical illness,neonatal mortality,8
+absence of physical illness,norepinephrine,10
+absence of physical illness,obesity,17
+absence of physical illness,occupational health,72
+absence of physical illness,occupational health and safety,7
+absence of physical illness,osteoarthritis,14
+absence of physical illness,outpatient visits,17
+absence of physical illness,pneumonia,20
+absence of physical illness,rectal temperature,91
+absence of physical illness,respiratory,18
+absence of physical illness,respiratory disease,31
+absence of physical illness,respiratory diseases,37
+absence of physical illness,respiratory mortality,11
+absence of physical illness,respiratory symptoms,9
+absence of physical illness,rheumatoid arthritis,9
+absence of physical illness,skin blood flow,80
+absence of physical illness,skin temperature,207
+absence of physical illness,skin temperatures,10
+absence of physical illness,stillbirth,10
+absence of physical illness,stroke,43
+absence of physical illness,sympathetic nervous system,12
+absence of physical illness,tympanic temperature,15
+absence of physical illness,wrist temperature,7
+congnitive health,alertness,23
+congnitive health,attention,14
+congnitive health,autonomic nervous system,14
+congnitive health,blood flow,21
+congnitive health,blood lactate,6
+congnitive health,blood pressure,83
+congnitive health,body core temperature,10
+congnitive health,body temperature,168
+congnitive health,body temperature regulation,34
+congnitive health,body temperatures,8
+congnitive health,brain blood flow,7
+congnitive health,cardiac output,11
+congnitive health,cardiovascular system,7
+congnitive health,catecholamines,13
+congnitive health,central fatigue,7
+congnitive health,cerebral blood flow,12
+congnitive health,circadian,44
+congnitive health,circadian clock,14
+congnitive health,circadian phase,9
+congnitive health,circadian rhythm,141
+congnitive health,circadian rhythms,99
+congnitive health,cognition,21
+congnitive health,cognitive function,17
+congnitive health,cognitive performance,70
+congnitive health,core body temperature,65
+congnitive health,core temperature,222
+congnitive health,corticosterone,7
+congnitive health,cortisol,31
+congnitive health,cutaneous vasodilation,8
+congnitive health,esophageal temperature,6
+congnitive health,fatigue,98
+congnitive health,heart rate,162
+congnitive health,heart rate variability,23
+congnitive health,human circadian rhythms,8
+congnitive health,human performance,10
+congnitive health,memory,5
+congnitive health,metabolic heat production,13
+congnitive health,metabolic rate,60
+congnitive health,norepinephrine,10
+congnitive health,performance,128
+congnitive health,productivity,65
+congnitive health,reaction time,12
+congnitive health,rectal temperature,91
+congnitive health,skin blood flow,80
+congnitive health,skin temperature,207
+congnitive health,skin temperatures,10
+congnitive health,sympathetic nervous system,12
+congnitive health,task performance,8
+congnitive health,tympanic temperature,15
+congnitive health,vigilance,12
+congnitive health,work capacity,7
+congnitive health,work performance,16
+congnitive health,workload,14
+congnitive health,wrist temperature,7
+emotional health,anxiety,19
+emotional health,autonomic nervous system,14
+emotional health,blood flow,21
+emotional health,blood lactate,6
+emotional health,blood pressure,83
+emotional health,body core temperature,10
+emotional health,body temperature,168
+emotional health,body temperature regulation,34
+emotional health,body temperatures,8
+emotional health,cardiac output,11
+emotional health,cardiovascular system,7
+emotional health,catecholamines,13
+emotional health,circadian,44
+emotional health,circadian clock,14
+emotional health,circadian phase,9
+emotional health,circadian rhythm,141
+emotional health,circadian rhythms,99
+emotional health,comfort,55
+emotional health,core body temperature,65
+emotional health,core temperature,222
+emotional health,corticosterone,7
+emotional health,cortisol,31
+emotional health,cutaneous vasodilation,8
+emotional health,discomfort,8
+emotional health,emotion,10
+emotional health,esophageal temperature,6
+emotional health,heart rate,162
+emotional health,heart rate variability,23
+emotional health,hormones,13
+emotional health,human circadian rhythms,8
+emotional health,metabolic heat production,13
+emotional health,metabolic rate,60
+emotional health,mood,28
+emotional health,norepinephrine,10
+emotional health,occupant satisfaction,23
+emotional health,rectal temperature,91
+emotional health,satisfaction,16
+emotional health,skin blood flow,80
+emotional health,skin temperature,207
+emotional health,skin temperatures,10
+emotional health,stress,30
+emotional health,sympathetic nervous system,12
+emotional health,thermal discomfort,20
+emotional health,thermal pleasure,7
+emotional health,thermal preference,7
+emotional health,tympanic temperature,15
+emotional health,wrist temperature,7
+physical activity health ,adaptive capacity,15
+physical activity health ,athletic performance,9
+physical activity health ,athletics,7
+physical activity health ,autonomic nervous system,14
+physical activity health ,birth weight,7
+physical activity health ,blood flow,21
+physical activity health ,blood lactate,6
+physical activity health ,blood pressure,83
+physical activity health ,body composition,13
+physical activity health ,body core temperature,10
+physical activity health ,body fat,11
+physical activity health ,body mass index,9
+physical activity health ,body temperature,168
+physical activity health ,body temperature regulation,34
+physical activity health ,body temperatures,8
+physical activity health ,cardiac output,11
+physical activity health ,cardiovascular system,7
+physical activity health ,catecholamines,13
+physical activity health ,circadian,44
+physical activity health ,circadian clock,14
+physical activity health ,circadian phase,9
+physical activity health ,circadian rhythm,141
+physical activity health ,circadian rhythms,99
+physical activity health ,core body temperature,65
+physical activity health ,core temperature,222
+physical activity health ,corticosterone,7
+physical activity health ,cortisol,31
+physical activity health ,cutaneous vasodilation,8
+physical activity health ,endurance,25
+physical activity health ,endurance exercise,9
+physical activity health ,esophageal temperature,6
+physical activity health ,exercise,249
+physical activity health ,exercise intensity,8
+physical activity health ,exercise performance,10
+physical activity health ,exercise physiology,8
+physical activity health ,fatigue,98
+physical activity health ,fitness,11
+physical activity health ,growth hormone,7
+physical activity health ,heart rate,162
+physical activity health ,heart rate variability,23
+physical activity health ,human circadian rhythms,8
+physical activity health ,injury,15
+physical activity health ,intermittent exercise,19
+physical activity health ,labor productivity,10
+physical activity health ,locomotor activity,15
+physical activity health ,metabolic heat production,13
+physical activity health ,metabolic rate,60
+physical activity health ,muscle,10
+physical activity health ,muscle damage,15
+physical activity health ,muscle fatigue,8
+physical activity health ,muscle soreness,7
+physical activity health ,muscle strength,9
+physical activity health ,muscle temperature,15
+physical activity health ,norepinephrine,10
+physical activity health ,perceived exertion,13
+physical activity health ,physical activity,65
+physical activity health ,physical exercise,11
+physical activity health ,physical exertion,12
+physical activity health ,physical fitness,6
+physical activity health ,physical performance,14
+physical activity health ,rectal temperature,91
+physical activity health ,skin blood flow,80
+physical activity health ,skin temperature,207
+physical activity health ,skin temperatures,10
+physical activity health ,sport,12
+physical activity health ,sports,10
+physical activity health ,sports medicine,7
+physical activity health ,swimming,10
+physical activity health ,sympathetic nervous system,12
+physical activity health ,team sport,8
+physical activity health ,training,12
+physical activity health ,tympanic temperature,15
+physical activity health ,wrist temperature,7
+sensory health,adaptive behavior,6
+sensory health,adaptive behaviour,8
+sensory health,adaptive model,8
+sensory health,autonomic nervous system,14
+sensory health,behavior,15
+sensory health,blood flow,21
+sensory health,blood lactate,6
+sensory health,blood pressure,83
+sensory health,body core temperature,10
+sensory health,body temperature,168
+sensory health,body temperature regulation,34
+sensory health,body temperatures,8
+sensory health,cardiac output,11
+sensory health,cardiovascular system,7
+sensory health,catecholamines,13
+sensory health,circadian,44
+sensory health,circadian clock,14
+sensory health,circadian phase,9
+sensory health,circadian rhythm,141
+sensory health,circadian rhythms,99
+sensory health,clothing,54
+sensory health,clothing insulation,12
+sensory health,cold-induced vasodilation,7
+sensory health,core body temperature,65
+sensory health,core temperature,222
+sensory health,corticosterone,7
+sensory health,cortisol,31
+sensory health,cutaneous vasodilation,8
+sensory health,esophageal temperature,6
+sensory health,heart rate,162
+sensory health,heart rate variability,23
+sensory health,heat acclimation,41
+sensory health,heat acclimatization,17
+sensory health,heat adaptation,19
+sensory health,heat tolerance,21
+sensory health,human circadian rhythms,8
+sensory health,human thermoregulation,8
+sensory health,local skin temperature,8
+sensory health,mean skin temperature,13
+sensory health,metabolic heat production,13
+sensory health,metabolic rate,60
+sensory health,norepinephrine,10
+sensory health,occupant behavior,17
+sensory health,occupant behaviour,15
+sensory health,perceived air quality,20
+sensory health,perceived temperature,7
+sensory health,perception,35
+sensory health,perceptions,15
+sensory health,perceptual responses,10
+sensory health,perceptual strain,7
+sensory health,perceptual strain index,7
+sensory health,proprioception,7
+sensory health,rectal temperature,91
+sensory health,skin blood flow,80
+sensory health,skin temperature,207
+sensory health,skin temperatures,10
+sensory health,subjective perception,7
+sensory health,sympathetic nervous system,12
+sensory health,temperature regulation,44
+sensory health,thermal adaptation,50
+sensory health,thermal perception,39
+sensory health,thermal sensation,205
+sensory health,thermal sensation vote,13
+sensory health,thermoregulation,398
+sensory health,thermoregulatory behavior,7
+sensory health,tympanic temperature,15
+sensory health,vasoconstriction,22
+sensory health,vasodilation,10
+sensory health,wrist temperature,7
+sleep health,autonomic nervous system,14
+sleep health,biological clock,7
+sleep health,blood flow,21
+sleep health,blood lactate,6
+sleep health,blood pressure,83
+sleep health,body core temperature,10
+sleep health,body temperature,168
+sleep health,body temperature regulation,34
+sleep health,body temperatures,8
+sleep health,cardiac output,11
+sleep health,cardiovascular system,7
+sleep health,catecholamines,13
+sleep health,chronotype,33
+sleep health,circadian,44
+sleep health,circadian clock,14
+sleep health,circadian phase,9
+sleep health,circadian rhythm,141
+sleep health,circadian rhythms,99
+sleep health,core body temperature,65
+sleep health,core temperature,222
+sleep health,corticosterone,7
+sleep health,cortisol,31
+sleep health,cutaneous vasodilation,8
+sleep health,esophageal temperature,6
+sleep health,heart rate,162
+sleep health,heart rate variability,23
+sleep health,human circadian rhythms,8
+sleep health,insomnia,10
+sleep health,melatonin,111
+sleep health,metabolic heat production,13
+sleep health,metabolic rate,60
+sleep health,norepinephrine,10
+sleep health,rectal temperature,91
+sleep health,skin blood flow,80
+sleep health,skin temperature,207
+sleep health,skin temperatures,10
+sleep health,sleep,136
+sleep health,sleep deprivation,23
+sleep health,sleep homeostasis,6
+sleep health,sleep loss,8
+sleep health,sleep quality,47
+sleep health,sympathetic nervous system,12
+sleep health,tympanic temperature,15
+sleep health,wrist temperature,7
+subclinical health,autonomic nervous system,14
+subclinical health,birth weight,7
+subclinical health,blood flow,21
+subclinical health,blood lactate,6
+subclinical health,blood pressure,83
+subclinical health,body composition,13
+subclinical health,body core temperature,10
+subclinical health,body temperature,168
+subclinical health,body temperature regulation,34
+subclinical health,body temperatures,8
+subclinical health,cardiac output,11
+subclinical health,cardiovascular system,7
+subclinical health,catecholamines,13
+subclinical health,circadian,44
+subclinical health,circadian clock,14
+subclinical health,circadian phase,9
+subclinical health,circadian rhythm,141
+subclinical health,circadian rhythms,99
+subclinical health,core body temperature,65
+subclinical health,core temperature,222
+subclinical health,corticosterone,7
+subclinical health,cortisol,31
+subclinical health,cutaneous vasodilation,8
+subclinical health,endurance,25
+subclinical health,endurance exercise,9
+subclinical health,esophageal temperature,6
+subclinical health,heart rate,162
+subclinical health,heart rate variability,23
+subclinical health,human circadian rhythms,8
+subclinical health,low back pain,9
+subclinical health,metabolic heat production,13
+subclinical health,metabolic rate,60
+subclinical health,neck pain,8
+subclinical health,norepinephrine,10
+subclinical health,occupational health,72
+subclinical health,occupational health and safety,7
+subclinical health,pain,26
+subclinical health,preterm birth,30
+subclinical health,recovery,60
+subclinical health,rectal temperature,91
+subclinical health,rehabilitation,22
+subclinical health,sbs symptoms,9
+subclinical health,sick building syndrome,22
+subclinical health,skin blood flow,80
+subclinical health,skin temperature,207
+subclinical health,skin temperatures,10
+subclinical health,sleepiness,26
+subclinical health,sympathetic nervous system,12
+subclinical health,tympanic temperature,15
+subclinical health,wrist temperature,7
